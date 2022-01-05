@@ -1,2 +1,2 @@
 # MediKnow
-My COVID-19 medical advancement smart informative app 
+My COVID-19 medical informative app that harnesses the power of IBM Watson API suite to filter a repository of articles about COVID-19 drug, vaccine, and therapeautic advancements and perform keyword, NLP, sentiment analysis on these articles. Saves the time of the users and communicates the most pertinent details about these areas of medical advancements. Developed using Android Studio (Java) and uses Firebase to store keywords and other information linked to the areas described above. 
